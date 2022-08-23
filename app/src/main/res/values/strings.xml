@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">My App</string>
+    <string name="m_text" translatable="false">Hello, Duy!</string>
+    <string name="log">Log</string>
+</resources>
